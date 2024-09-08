@@ -1,5 +1,5 @@
 
-## Welcome to my GitHub corner! Explore my repositories,and let’s connect on our coding journey and share knowledge !
+# Welcome to my GitHub corner! Explore my repositories,and let’s connect on our coding journey and share knowledge !
 
 - 🌱 I’m a Data Analytics graduate from the Univerity of the Fraser Valley, BC (UFV)
 - 🔭 I am currently working on various projects, focusing on understanding the underlying mathematics and algorithms to deepen my knowledge.
