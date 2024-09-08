@@ -1,7 +1,6 @@
 
 ## Welcome to my GitHub corner! Explore my repositories,and let’s connect on our coding journey and share knowledge !
 
-Here are some ideas to get you started:
 - 🌱 I’m a Data Analytics graduate from the Univerity of the Fraser Valley, BC (UFV)
 - 🔭 I am currently working on various projects, focusing on understanding the underlying mathematics and algorithms to deepen my knowledge.
 - 🚀 My skill set include, Advanced Excel, SQL, Power BI, Python,Pandas, Numpy and Scikit-Learn.
