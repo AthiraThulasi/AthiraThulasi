@@ -29,6 +29,6 @@ Feel free to reach out via LinkedIn: (https://www.linkedin.com/in/athira-beena-t
 😊 **Pronouns**
 She/Her
 
-
+![image](https://github.com/user-attachments/assets/18bdcce0-3ad7-4415-a3f8-650b53012fc2)
 
 
