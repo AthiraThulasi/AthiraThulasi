@@ -17,9 +17,11 @@ I am a Data Analytics graduate from the University of the Fraser Valley, BC (UFV
 
 🚀 **Key Skills**
 
-Data Tools: Advanced Excel, SQL, Power BI, SAS
-Programming Languages: Python, Pandas, NumPy, Scikit-Learn
-Analytical Skills: Statistics, Data Modeling, Hypothesis Testing
+**Data Tools:** Advanced Excel, SQL, Power BI, SAS
+
+**Programming Languages:** Python, Pandas, NumPy, Scikit-Learn
+
+**Analytical Skills:** Statistics, Data Modeling, Hypothesis Testing
 
 👯 **A Personal Note**
 
