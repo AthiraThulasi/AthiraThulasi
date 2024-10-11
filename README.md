@@ -9,9 +9,11 @@ I am a Data Analytics graduate from the University of the Fraser Valley, BC (UFV
 
 🔭 **Current Projects**
 
-Biodiversity Data Scraping: Leveraging Scrapy to scrape websites from biodiversity databases, I’ve collected data from over 1000+ organizations.
-Mission Statement Analysis: Extracting and processing mission statements for automated analysis using LLMs (Large Language Models), allowing for the identification of organizational goals and areas of focus.
-Prompt Engineering with OpenAI API: Utilizing OpenAI API and LLMs to enable deeper analysis of mission statements and reports, uncovering collaboration opportunities and key themes among biodiversity organizations.
+**Biodiversity Data Scraping:** Leveraging Scrapy to scrape websites from biodiversity databases, I’ve collected data from over 1000+ organizations.
+
+**Mission Statement Analysis:** Extracting and processing mission statements for automated analysis using LLMs (Large Language Models), allowing for the identification of organizational goals and areas of focus.
+
+**Prompt Engineering with OpenAI API:** Utilizing OpenAI API and LLMs to enable deeper analysis of mission statements and reports, uncovering collaboration opportunities and key themes among biodiversity organizations.
 
 🚀 **Key Skills**
 
