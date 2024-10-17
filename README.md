@@ -26,19 +26,29 @@ I am a Data Analytics graduate from the University of the Fraser Valley, BC (UFV
 🚀 **Software Testing Skills**
 
 •	Automation Testing, Manual Testing, API Testing, REST API Testing, Database Testing, Regression Testing, User Acceptance Testing (UAT), Functional Testing, Integration Testing and Performance Testing.
+
 •	Extensive experience in Web & Mobile Application Testing (iOS & Android).
+
 •	Proficient in writing Test Cases, Test Plans, and creating detailed Bug Reports.
+
 •	Familiar with SDLC (Software Development Life Cycle) & STLC (Software Testing Life Cycle).
 
 **Tools & Platforms**
 
-•	 selenium, Postman, Jira, RESRT-API, TFS & Bugzilla
+•	selenium, Postman, Jira, RESRT-API, TFS & Bugzilla
+
 • Agile & Team Collaboration Skills
+
 •	Experienced in Agile methodologies, working in Scrum teams, and attending daily stand-ups, sprint planning, and retrospectives.
+
 •	Skilled in Defect Management, Requirement Analysis, and cross-functional team collaboration.
+
 Soft Skills	
+
 •	Strong communication and problem-solving skills.
+
 •	Ability to engage with both technical and non-technical stakeholders, providing clear updates on project status and test results.
+
 •	Leadership in mentoring junior testers and collaborating with developers and business analysts.
 
 👯 **A Personal Note**
