@@ -5,7 +5,7 @@ Explore my repositories, and let’s connect on our coding journey to share know
 
 🌱 **About Me**
 
-I am a Data Analytics graduate from the University of the Fraser Valley, BC (UFV), passionate about harnessing the power of data to drive meaningful decisions. Currently, I am contributing to data science projects for CrowdDoing, where I focus on social impact through clustering algorithms and predictive models for stewardship profiles.
+I am a Data Analytics graduate from the University of the Fraser Valley, BC (UFV), passionate about harnessing the power of data to drive meaningful decisions. As a seasoned Quality Assurance Analyst with over 5 years of experience in software testing, I specialize in web and mobile applications across diverse industries. My expertise spans manual and automated testing processes, including bug tracking, test planning, execution, and reporting, complemented by hands-on experience in agile methodologies. Currently, I am contributing to data science projects for CrowdDoing, focusing on social impact through clustering algorithms and predictive models for stewardship profiles. Eager to combine my extensive software testing experience with my data analysis capabilities, I aim to contribute to a forward-thinking, innovative organization.
 
 🔭 **Current Projects**
 
