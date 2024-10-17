@@ -23,7 +23,7 @@ I am a Data Analytics graduate from the University of the Fraser Valley, BC (UFV
 
 **Analytical Skills:** Statistics, Data Modeling, Hypothesis Testing
 
-**Software Testing Skills**
+🚀 **Software Testing Skills**
 
 •	Automation Testing, Manual Testing, API Testing, REST API Testing, Database Testing, Regression Testing, User Acceptance Testing (UAT), Functional Testing, Integration Testing and Performance Testing.
 •	Extensive experience in Web & Mobile Application Testing (iOS & Android).
