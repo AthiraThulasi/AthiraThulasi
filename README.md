@@ -9,7 +9,7 @@ This space is where I document and journal my learning journey.
 🛠️ Check it out — and if you find it helpful, consider giving it a ⭐️! Your support is truly encouraging.
 If you notice anything incorrect or have a better approach, feel free to share your suggestions — I'm always open to learning and improving.
 
-📬 You can open an issue, fork the repo to suggest edits, or reach out via LinkedIn — I’d love to hear from you!
+📬 You can open an issue, fork the repo to suggest edits, or reach out via LinkedIn - https://www.linkedin.com/in/athira-beena-thulasi/ — I’d love to hear from you!
 
 
 
