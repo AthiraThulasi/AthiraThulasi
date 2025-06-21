@@ -3,27 +3,22 @@
 
 Explore my repositories, and let’s connect on our coding journey to share knowledge and inspire each other!
 
+I'm currently upskilling myself to strengthen my QA toolkit — focusing on Java, Selenium, Rest Assured, and Postman.
+This space is where I document and journal my learning journey.
+
+🛠️ Check it out — and if you find it helpful, consider giving it a ⭐️! Your support is truly encouraging.
+If you notice anything incorrect or have a better approach, feel free to share your suggestions — I'm always open to learning and improving.
+
+📬 You can open an issue, fork the repo to suggest edits, or reach out via LinkedIn — I’d love to hear from you!
+
+
+
 🌱 **About Me**
 
 I am a Data Analytics graduate from the University of the Fraser Valley, BC (UFV), passionate about harnessing the power of data to drive meaningful decisions.
 
 As a Quality Assurance professional with a strong background in data analysis, I am passionate about ensuring product quality while leveraging data to drive deeper insights. My expertise empowers me to approach QA with a data-driven mindset, identifying patterns and optimizing processes. Whether through meticulous testing or uncovering valuable trends within data, I am dedicated to delivering robust solutions. My goal is to combine these skills to ensure quality products that are informed by intelligent, data-backed decisions. Eager to combine my extensive software testing experience with my data analysis capabilities, I aim to contribute to a forward-thinking, innovative organization.
 
-🔭 **Current Projects**
-
-**Biodiversity Data Scraping:** Leveraging Scrapy to scrape websites from biodiversity databases, I’ve collected data from over 1000+ organizations.
-
-**Mission Statement Analysis:** Extracting and processing mission statements for automated analysis using LLMs (Large Language Models), allowing for the identification of organizational goals and areas of focus.
-
-**Prompt Engineering with OpenAI API:** Utilizing OpenAI API and LLMs to enable deeper analysis of mission statements and reports, uncovering collaboration opportunities and key themes among biodiversity organizations.
-
-🚀 **Data Skills**
-
-**Data Tools:** Advanced Excel, SQL, Power BI, SAS
-
-**Programming Languages:** Python, Pandas, NumPy, Scikit-Learn
-
-**Analytical Skills:** Statistics, Data Modeling, Hypothesis Testing
 
 🚀 **Software Testing Skills**
 
@@ -43,7 +38,14 @@ As a Quality Assurance professional with a strong background in data analysis, I
 
 •	Experienced in Agile methodologies, working in Scrum teams, and attending daily stand-ups, sprint planning, and retrospectives.
 
-•	Skilled in Defect Management, Requirement Analysis, and cross-functional team collaboration.
+•	Skilled in Defect Management, Requirement Analysis, and cross-functional team collaboration.🚀 **Data Skills**
+
+**Data Tools:** Advanced Excel, SQL, Power BI, SAS
+
+**Programming Languages:** Python, Pandas, NumPy, Scikit-Learn
+
+**Analytical Skills:** Statistics, Data Modeling, Hypothesis Testing
+
 
 Soft Skills	
 
