@@ -1,7 +1,7 @@
 
 **Welcome to my GitHub corner!**
 
- **About Me**
+
 I’m a results-driven QA Engineer with over 5 years of experience in manual and automation testing, passionate about delivering high-quality software. 
 
 **current Status**
