@@ -1,18 +1,13 @@
 
 **Welcome to my GitHub corner!**
 
-Explore my repositories, and let’s connect on our coding journey to share knowledge and inspire each other!
+ **About Me**
+I’m a results-driven QA Engineer with over 5 years of experience in manual and automation testing, passionate about delivering high-quality software. 
+
+**current Status**
 
 I'm currently upskilling myself to strengthen my QA toolkit — focusing on Java, Selenium, Rest Assured, and Postman.
 This space is where I document and journal my learning journey.
-
-
-🌱 **About Me**
-
-I am a Data Analytics graduate from the University of the Fraser Valley, BC (UFV), passionate about harnessing the power of data to drive meaningful decisions.
-
-As a Quality Assurance professional with a strong background in data analysis, I am passionate about ensuring product quality while leveraging data to drive deeper insights. My expertise empowers me to approach QA with a data-driven mindset, identifying patterns and optimizing processes. Whether through meticulous testing or uncovering valuable trends within data, I am dedicated to delivering robust solutions. My goal is to combine these skills to ensure quality products that are informed by intelligent, data-backed decisions. Eager to combine my extensive software testing experience with my data analysis capabilities, I aim to contribute to a forward-thinking, innovative organization.
-
 
 🚀 **Software Testing Skills**
 
@@ -40,24 +35,10 @@ As a Quality Assurance professional with a strong background in data analysis, I
 
 **Analytical Skills:** Statistics, Data Modeling, Hypothesis Testing
 
-
-Soft Skills	
-
-•	Strong communication and problem-solving skills.
-
-•	Ability to engage with both technical and non-technical stakeholders, providing clear updates on project status and test results.
-
-•	Leadership in mentoring junior testers and collaborating with developers and business analysts.
-
-👯 **A Personal Note**
-
-Once terrified of Statistics, now we’re best friends! Who knew numbers could be so charming? Diving into data analysis, forecasting, and machine learning has transformed our relationship into something inseparable.
-
 📫 **Let's Connect!**
 Feel free to reach out via LinkedIn: (https://www.linkedin.com/in/athira-beena-thulasi/)
 
-😊 **Pronouns**
-She/Her
+
 
 
 
