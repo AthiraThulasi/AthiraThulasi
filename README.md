@@ -31,7 +31,7 @@ This space is where I document and journal my learning journey.
 
 **Data Tools:** Advanced Excel, SQL, Power BI, SAS
 
-**Programming Languages:** Python, Pandas, NumPy, Scikit-Learn
+**Programming Languages:** Java, Python, Pandas, NumPy, Scikit-Learn
 
 **Analytical Skills:** Statistics, Data Modeling, Hypothesis Testing
 
