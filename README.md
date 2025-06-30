@@ -27,7 +27,9 @@ This space is where I document and journal my learning journey.
 
 •	Experienced in Agile methodologies, working in Scrum teams, and attending daily stand-ups, sprint planning, and retrospectives.
 
-•	Skilled in Defect Management, Requirement Analysis, and cross-functional team collaboration.🚀 **Data Skills**
+•	Skilled in Defect Management, Requirement Analysis, and cross-functional team collaboration.
+
+**Data Skills**
 
 **Data Tools:** Advanced Excel, SQL, Power BI, SAS
 
