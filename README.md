@@ -19,9 +19,9 @@ This space is where I document and journal my learning journey.
 
 •	Familiar with SDLC (Software Development Life Cycle) & STLC (Software Testing Life Cycle).
 
-## Tools & Platforms**
+## Tools & Platforms
 
-•	selenium, Postman, Jira, RESRT-API, TFS & Bugzilla
+•	Selenium, Postman, Jira, TFS & Bugzilla
 
 • Programming Languages: Java, Python, SQL
 
