@@ -33,11 +33,11 @@ This space is where I document and journal my learning journey.
 
 ## Data Skills
 
-. Data Tools:** Advanced Excel, SQL, Power BI, SAS
+. Data Tools: Advanced Excel, SQL, Power BI, SAS
 
 . Data Science Libraries - Pandas, NumPy, Scikit-Learn
  
-. Analytical Skills:** Statistics, Data Modeling, Hypothesis Testing
+. Analytical Skills: Statistics, Data Modeling, Hypothesis Testing
 
 ## Let's Connect!
 Feel free to reach out via LinkedIn: (https://www.linkedin.com/in/athira-beena-thulasi/)
