@@ -4,7 +4,7 @@
 
 I’m a results-driven QA Engineer with over 5 years of experience in manual and automation testing, passionate about delivering high-quality software. 
 
-## Current Status**
+## Current Status
 
 I'm currently upskilling myself to strengthen my QA toolkit — focusing on Java, Selenium, Rest Assured, and Postman.
 This space is where I document and journal my learning journey.
