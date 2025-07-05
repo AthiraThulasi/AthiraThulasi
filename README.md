@@ -23,6 +23,8 @@ This space is where I document and journal my learning journey.
 
 •	selenium, Postman, Jira, RESRT-API, TFS & Bugzilla
 
+• Programming Languages: Java, Python, SQL
+
 • Agile & Team Collaboration Skills
 
 •	Experienced in Agile methodologies, working in Scrum teams, and attending daily stand-ups, sprint planning, and retrospectives.
@@ -31,11 +33,11 @@ This space is where I document and journal my learning journey.
 
 ## Data Skills
 
-**Data Tools:** Advanced Excel, SQL, Power BI, SAS
+. Data Tools:** Advanced Excel, SQL, Power BI, SAS
 
-**Programming Languages:** Java, Python, Pandas, NumPy, Scikit-Learn
-
-**Analytical Skills:** Statistics, Data Modeling, Hypothesis Testing
+. Data Science Libraries - Pandas, NumPy, Scikit-Learn
+ 
+. Analytical Skills:** Statistics, Data Modeling, Hypothesis Testing
 
 ## Let's Connect!
 Feel free to reach out via LinkedIn: (https://www.linkedin.com/in/athira-beena-thulasi/)
