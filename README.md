@@ -11,7 +11,7 @@ This space is where I document and journal my learning journey.
 
 ## Software Testing Skills
 
-•	Automation Testing, Manual Testing, API Testing, REST API Testing, Database Testing, Regression Testing, User Acceptance Testing (UAT), Functional Testing, Integration Testing and Performance Testing.
+•	Automation Testing, Manual Testing, API Testing, Database Testing, Regression Testing, User Acceptance Testing (UAT), Functional Testing and Integration Testing .
 
 •	Extensive experience in Web & Mobile Application Testing (iOS & Android).
 
