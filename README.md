@@ -40,7 +40,7 @@ This space is where I document and journal my learning journey.
 . Analytical Skills: Statistics, Data Modeling, Hypothesis Testing
 
 ## Let's Connect!
-Feel free to reach out via LinkedIn: (https://www.linkedin.com/in/athira-beena-thulasi/)
+Feel free to reach out via LinkedIn: https://www.linkedin.com/in/athira-beena-thulasi/
 
 
 
