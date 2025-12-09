@@ -21,7 +21,7 @@ This space is where I document and journal my learning journey.
 
 ## Tools & Platforms
 
-•	Selenium, Postman, Jira, TFS & Bugzilla
+•	Selenium, Postman, Newman, Jira, Zephyr, Azure Devops Server, & Bugzilla
 
 • Programming Languages: Java, Python, SQL
 
