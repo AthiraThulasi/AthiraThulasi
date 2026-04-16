@@ -3,6 +3,7 @@
 
 
 I’m a results-driven QA Engineer with 5 years of experience in manual and automation testing, passionate about delivering high-quality software. 
+I’m constantly upskilling and never give up until I reach a level where I feel truly confident and excellent in what I do.
 
 ## Current Status
 
