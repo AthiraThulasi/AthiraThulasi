@@ -28,10 +28,6 @@ This space documents my learning journey.
 
 ---
 
-📎 [linkedin.com/in/athira-beena-thulasi](https://www.linkedin.com/in/athira-beena-thulasi/)
----
-
-📎 [linkedin.com/in/athira-beena-thulasi](https://www.linkedin.com/in/athira-beena-thulasi/)
 
 ## Let's Connect!
 Feel free to reach out via LinkedIn: https://www.linkedin.com/in/athira-beena-thulasi/
