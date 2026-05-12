@@ -20,7 +20,6 @@ This space documents my learning journey.
 
 ## What I'm Good With 
 
-## 💡 What I'm Good With
 
 ## Testing
 
