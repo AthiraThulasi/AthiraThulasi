@@ -4,7 +4,9 @@
 
 **QA Engineer · 5 years · Manual & Automation · Always upskilling**
 
-I break things professionally — then make sure they stay fixed.
+I show up fully - patient, persistent, and genuinely passionate about what I do.
+As a QA Engineer, that means staying committed, working through challenges with focus, and not stopping until I get things right.
+That’s who I am in QA - and outside of it too.
 This space documents my learning journey.
 
 ---
