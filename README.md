@@ -20,7 +20,7 @@ This space documents my learning journey.
 
 **Testing** — Automation, Manual, API, Regression, UAT, DB, Functional · Web, iOS & Android
 
-**Tools** — Selenium · Postman · Newman · Maven · Jenkins · Git · GitHub · Jira · Zephyr · Azure DevOps · Bugzilla
+**Tools** — Selenium · Postman · Newman · Maven · Jenkins · Git · GitHub · Jira · Zephyr· Bugzilla
 
 **Languages** — Java *(always a work in progress)* · SQL
 
