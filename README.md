@@ -45,7 +45,6 @@ This space documents my learning journey.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Zephyr](https://img.shields.io/badge/Zephyr-00B4E0?style=for-the-badge&logoColor=white)](https://smartbear.com/test-management/zephyr)
-[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops)
 [![Bugzilla](https://img.shields.io/badge/Bugzilla-CC0000?style=for-the-badge&logoColor=white)](https://www.bugzilla.org)
 
 ## Languages
