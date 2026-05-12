@@ -1,44 +1,30 @@
+# Athira Beena Thulasi
 
-## Welcome to my GitHub corner!
+**QA Engineer · 5 years · Manual & Automation · Always upskilling**
 
+I break things professionally — then make sure they stay fixed.
+This space documents my learning journey.
 
-I’m a results-driven QA Engineer with 5 years of experience in manual and automation testing, passionate about delivering high-quality software. 
-I’m constantly upskilling and never give up until I reach a level where I feel truly confident and excellent in what I do.
+---
 
-## Current Status
+## 🌱 Currently Upskilling
 
-I'm currently upskilling myself to strengthen my QA toolkit — focusing on Java, Selenium, Rest Assured, and Postman.
-This space is where I document and journal my learning journey.
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-25D366?style=for-the-badge&logoColor=white)
 
-## Software Testing Skills
+---
 
-•	Automation Testing, Manual Testing, API Testing, Database Testing, Regression Testing, User Acceptance Testing (UAT), Functional Testing and Integration Testing .
+**Testing** — Automation, Manual, API, Regression, UAT, DB, Functional · Web, iOS & Android
 
-•	Extensive experience in Web & Mobile Application Testing (iOS & Android).
+**Tools** — Selenium · Postman · Newman · Jira · Zephyr · Azure DevOps · Bugzilla
 
-•	Proficient in writing Test Cases, Test Plans, and creating detailed Bug Reports.
+**Languages** — Java *(always a work in progress)* · SQL
 
-•	Familiar with SDLC (Software Development Life Cycle) & STLC (Software Testing Life Cycle).
+**Process** — Agile/Scrum · SDLC/STLC · Defect Management · Cross-functional collaboration
 
-## Tools & Platforms
+---
 
-•	Selenium, Postman, Newman, Jira, Zephyr, Azure Devops Server, & Bugzilla
-
-• Programming Languages: Java, Python, SQL
-
-• Agile & Team Collaboration Skills
-
-•	Experienced in Agile methodologies, working in Scrum teams, and attending daily stand-ups, sprint planning, and retrospectives.
-
-•	Skilled in Defect Management, Requirement Analysis, and cross-functional team collaboration.
-
-## Data Skills
-
-. Data Tools: Advanced Excel, SQL, Power BI, SAS
-
-. Data Science Libraries - Pandas, NumPy, Scikit-Learn
- 
-. Analytical Skills: Statistics, Data Modeling, Hypothesis Testing
+📎 [linkedin.com/in/athira-beena-thulasi](https://www.linkedin.com/in/athira-beena-thulasi/)
 
 ## Let's Connect!
 Feel free to reach out via LinkedIn: https://www.linkedin.com/in/athira-beena-thulasi/
