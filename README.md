@@ -20,13 +20,47 @@ This space documents my learning journey.
 
 ## What I'm Good With 
 
-**Testing** — Automation . Manual . API .Regression .UAT . DB .Functional . Web . iOS & Android
+## 💡 What I'm Good With
 
-**Tools** — Selenium · Postman · Newman · Maven · Jenkins · Git · GitHub · Jira · Zephyr· Bugzilla
+**Testing**
 
-**Languages** — Java *(always a work in progress)* · SQL
+![Automation](https://img.shields.io/badge/Automation-2EAD33?style=for-the-badge)
+![Manual](https://img.shields.io/badge/Manual-2EAD33?style=for-the-badge)
+![API](https://img.shields.io/badge/API-2EAD33?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression-2EAD33?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-2EAD33?style=for-the-badge)
+![DB Testing](https://img.shields.io/badge/DB%20Testing-2EAD33?style=for-the-badge)
+![Functional](https://img.shields.io/badge/Functional-2EAD33?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web-2EAD33?style=for-the-badge)
+![iOS](https://img.shields.io/badge/iOS-2EAD33?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-2EAD33?style=for-the-badge)
 
-**Process** — Agile/Scrum · SDLC/STLC · Defect Management · Cross-functional collaboration
+**Tools**
+
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+[![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.npmjs.com/package/newman)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Zephyr](https://img.shields.io/badge/Zephyr-00B4E0?style=for-the-badge&logoColor=white)](https://smartbear.com/test-management/zephyr)
+[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops)
+[![Bugzilla](https://img.shields.io/badge/Bugzilla-CC0000?style=for-the-badge&logoColor=white)](https://www.bugzilla.org)
+
+**Languages**
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+
+**Process**
+
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-0052CC?style=for-the-badge)
+![STLC](https://img.shields.io/badge/STLC-0052CC?style=for-the-badge)
+![Defect Management](https://img.shields.io/badge/Defect%20Management-0052CC?style=for-the-badge)
 
 ---
 
