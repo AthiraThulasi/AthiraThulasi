@@ -7,6 +7,7 @@
 I show up fully - patient, persistent, and genuinely passionate about what I do.
 As a QA Engineer, that means staying committed, working through challenges with focus, and not stopping until I get things right.
 That’s who I am in QA - and outside of it too. Committed to getting a little better every single day ✨
+
 This space documents my learning journey.
 
 ---
