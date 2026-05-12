@@ -22,7 +22,7 @@ This space documents my learning journey.
 
 ## 💡 What I'm Good With
 
-**Testing**
+## Testing
 
 ![Automation](https://img.shields.io/badge/Automation-2EAD33?style=for-the-badge)
 ![Manual](https://img.shields.io/badge/Manual-2EAD33?style=for-the-badge)
@@ -35,7 +35,7 @@ This space documents my learning journey.
 ![iOS](https://img.shields.io/badge/iOS-2EAD33?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-2EAD33?style=for-the-badge)
 
-**Tools**
+## Tools
 
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
@@ -49,12 +49,12 @@ This space documents my learning journey.
 [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops)
 [![Bugzilla](https://img.shields.io/badge/Bugzilla-CC0000?style=for-the-badge&logoColor=white)](https://www.bugzilla.org)
 
-**Languages**
+## Languages
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 
-**Process**
+## Process
 
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge)
