@@ -1,5 +1,7 @@
 # Athira Beena Thulasi
 
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge)
+
 **QA Engineer · 5 years · Manual & Automation · Always upskilling**
 
 I break things professionally — then make sure they stay fixed.
@@ -16,12 +18,15 @@ This space documents my learning journey.
 
 **Testing** — Automation, Manual, API, Regression, UAT, DB, Functional · Web, iOS & Android
 
-**Tools** — Selenium · Postman · Newman · Jira · Zephyr · Azure DevOps · Bugzilla
+**Tools** — Selenium · Postman · Newman · Maven · Jenkins · Git · GitHub · Jira · Zephyr · Azure DevOps · Bugzilla
 
 **Languages** — Java *(always a work in progress)* · SQL
 
 **Process** — Agile/Scrum · SDLC/STLC · Defect Management · Cross-functional collaboration
 
+---
+
+📎 [linkedin.com/in/athira-beena-thulasi](https://www.linkedin.com/in/athira-beena-thulasi/)
 ---
 
 📎 [linkedin.com/in/athira-beena-thulasi](https://www.linkedin.com/in/athira-beena-thulasi/)
