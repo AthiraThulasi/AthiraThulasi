@@ -20,7 +20,7 @@ This space documents my learning journey.
 
 ## What I'm Good With 
 
-**Testing** — Automation, Manual, API, Regression, UAT, DB, Functional · Web, iOS & Android
+**Testing** — Automation . Manual . API .Regression .UAT . DB .Functional . Web . iOS & Android
 
 **Tools** — Selenium · Postman · Newman · Maven · Jenkins · Git · GitHub · Jira · Zephyr· Bugzilla
 
