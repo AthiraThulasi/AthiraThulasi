@@ -4,7 +4,7 @@
 
 **QA Engineer · 5 years · Manual & Automation · Always upskilling**
 
-I believe in giving my 100% to everything I do. As a QA Engineer, that means showing up with patience, persistence, and a genuine passion for quality. I stay committed, work through challenges with focus, and don't stop until I get things right. That's who I am at work and beyond. Committed to getting a little better every single day. ✨ 
+I believe in giving my 100% to everything I do. As a QA Engineer, that means showing up with patience, persistence, and a genuine passion for quality. I stay committed, work through challenges with focus, and don't stop until I get things right. That's who I am at work and beyond. Committed to getting a little better every single day ✨ 
 
 
 ---
