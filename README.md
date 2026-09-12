@@ -8,8 +8,11 @@ I believe in giving my 100% to everything I do. As a QA Engineer, that means sho
 
 ##  Currently Upskilling
 
+## Currently Upskilling
+
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev)
 [![Rest Assured](https://img.shields.io/badge/Rest%20Assured-2EAD33?style=for-the-badge&logoColor=white)](https://rest-assured.io)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-2EAD33?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org)
 
 ---
 
