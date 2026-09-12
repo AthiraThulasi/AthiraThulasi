@@ -6,8 +6,6 @@ I believe in giving my 100% to everything I do. As a QA Engineer, that means sho
 
 ---
 
-##  Currently Upskilling
-
 ## Currently Upskilling
 
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev)
